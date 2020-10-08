@@ -1,24 +1,6 @@
-ignition-transport9 (9.0.0-1~focal) focal; urgency=medium
-
-  * ignition-transport9 9.0.0-1 release
-
- -- Carlos Aguero <caguero@openrobotics.org>  Tue, 29 Sep 2020 00:27:24 +0200
-
-ignition-transport9 (9.0.0~pre2-1~focal) focal; urgency=medium
-
-  * ignition-transport9 9.0.0~pre2-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Tue, 22 Sep 2020 16:46:22 -0700
-
-ignition-transport9 (9.0.0~pre1-1~focal) focal; urgency=medium
-
-  * ignition-transport9 9.0.0~pre1-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Thu, 10 Sep 2020 18:22:02 -0700
-
-ignition-transport9 (8.999.999-1~focal) focal; urgency=medium
+ignition-transport10 (9.999.999-1~focal) focal; urgency=medium
 
   * Stub to be removed after first entry
 
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 15 Jul 2020 19:49:14 +0200
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 07 Oct 2020 17:36:55 -0700
 
