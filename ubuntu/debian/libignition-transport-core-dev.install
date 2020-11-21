@@ -7,4 +7,4 @@ usr/lib/*/pkgconfig/ignition-transport[0-9][0-9].pc
 usr/lib/*/cmake/ignition-transport[0-9][0-9]/ignition-transport*
 usr/lib/ruby/ignition/cmdtransport[0-9][0-9].rb
 usr/share/ignition/transport[0-9][0-9].yaml
-usr/share/ignition/ignition-transport*/ignition-transport[0-9].tag.xml
+usr/share/ignition/ignition-transport*/ignition-transport[0-9][0-9].tag.xml
