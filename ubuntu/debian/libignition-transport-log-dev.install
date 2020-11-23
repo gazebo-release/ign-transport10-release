@@ -1,8 +1,8 @@
 usr/include/ignition/transport*/ignition/transport/log.hh
 usr/include/ignition/transport*/ignition/transport/log/*
-usr/lib/*/cmake/ignition-transport[0-99]-log/*
-usr/lib/*/libignition-transport[0-99]-log.so
-usr/lib/*/pkgconfig/ignition-transport[0-99]-log.pc
-usr/lib/ruby/ignition/cmdlog[0-99].rb
-usr/share/ignition/transportlog[0-99].yaml
-usr/share/ignition/ignition-transport[0-99]/sql/*
+usr/lib/*/cmake/ignition-transport[0-9][0-9]-log/*
+usr/lib/*/libignition-transport[0-9][0-9]-log.so
+usr/lib/*/pkgconfig/ignition-transport[0-9][0-9]-log.pc
+usr/lib/ruby/ignition/cmdlog[0-9][0-9].rb
+usr/share/ignition/transportlog[0-9][0-9].yaml
+usr/share/ignition/ignition-transport[0-9][0-9]/sql/*
