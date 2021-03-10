@@ -14,6 +14,8 @@ Build-Depends: cmake,
                libignition-msgs7-dev,
                libignition-cmake2-dev,
                libignition-tools-dev,
+               libignition-utils1-cli-dev,
+               libignition-utils1-dev,
                protobuf-compiler,
                uuid-dev,
                libzmq3-dev (>= 3.0.0),
@@ -31,6 +33,7 @@ Depends: libignition-transport10 (= ${binary:Version}),
          libignition-msgs7-dev,
          libignition-cmake2-dev,
          libignition-tools-dev,
+         libignition-utils1-dev,
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Core Dev files
