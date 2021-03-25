@@ -1,3 +1,9 @@
+ignition-transport10 (10.0.0~pre1-1~sid) sid; urgency=medium
+
+  * ignition-transport10 10.0.0~pre1-1 release
+
+ -- Carlos Aguero <caguero@openrobotics.org>  Thu, 25 Mar 2021 16:10:23 +0100
+
 ignition-transport10 (9.999.999-1~sid) sid; urgency=medium
 
   * Stub to be removed after first entry
