@@ -1,3 +1,9 @@
+ignition-transport10 (10.0.0~pre2-2~focal) focal; urgency=medium
+
+  * ignition-transport10 10.0.0~pre2-2 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 26 Mar 2021 12:31:10 -0700
+
 ignition-transport10 (10.0.0~pre2-1~focal) focal; urgency=medium
 
   * ignition-transport10 10.0.0~pre2-1 release
