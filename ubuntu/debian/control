@@ -33,6 +33,7 @@ Depends: libignition-transport10 (= ${binary:Version}),
          libignition-msgs7-dev,
          libignition-cmake2-dev,
          libignition-tools-dev,
+         libignition-utils1-cli-dev,
          libignition-utils1-dev,
          ${misc:Depends}
 Multi-Arch: same
