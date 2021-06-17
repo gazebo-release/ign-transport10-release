@@ -52,7 +52,7 @@ Architecture: any
 Section: libdevel
 Depends: libsqlite3-dev,
          libignition-cmake2-dev,
-         libignition-transport10-core-dev,
+         libignition-transport10-core-dev (= ${binary:Version}),
          libignition-transport10-log (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
@@ -69,8 +69,8 @@ Description: Ignition Robotics Transport Library - Log Shared library
 Package: libignition-transport10-dev
 Architecture: any
 Section: libdevel
-Depends: libignition-transport10-core-dev,
-         libignition-transport10-log-dev,
+Depends: libignition-transport10-core-dev (= ${binary:Version}),
+         libignition-transport10-log-dev (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Metapackage
