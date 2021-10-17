@@ -1,3 +1,9 @@
+ignition-transport10 (10.0.1-1~buster) buster; urgency=medium
+
+  * ignition-transport10 10.0.1-1 release
+
+ -- Carlos Aguero <caguero@openrobotics.org>  Sun, 17 Oct 2021 23:07:15 +0200
+
 ignition-transport10 (10.0.0-1~buster) buster; urgency=medium
 
   * ignition-transport10 10.0.0-1 release
