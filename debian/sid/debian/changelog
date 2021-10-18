@@ -1,3 +1,9 @@
+ignition-transport10 (10.1.0-1~sid) sid; urgency=medium
+
+  * ignition-transport10 10.1.0-1 release
+
+ -- Carlos Aguero <caguero@openrobotics.org>  Mon, 18 Oct 2021 18:15:36 +0200
+
 ignition-transport10 (10.0.1-1~sid) sid; urgency=medium
 
   * ignition-transport10 10.0.1-1 release
