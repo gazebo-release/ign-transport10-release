@@ -1,3 +1,9 @@
+ignition-transport10 (10.1.0-2~bionic) bionic; urgency=medium
+
+  * ignition-transport10 10.1.0-2 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 12 Nov 2021 11:10:50 -0800
+
 ignition-transport10 (10.1.0-1~bionic) bionic; urgency=medium
 
   * ignition-transport10 10.1.0-1 release
